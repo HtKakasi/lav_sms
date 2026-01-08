@@ -1,4 +1,4 @@
-## **Laravel School Management System** 
+## **Laravel School Management System by saugat** 
 
 **LAVSMS** is developed for educational institutions like schools and colleges built on Laravel 8
 
